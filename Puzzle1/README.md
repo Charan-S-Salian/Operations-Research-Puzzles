@@ -8,4 +8,5 @@ Each letter stands for a different figure (1,2,3,4,5, 6, 7, 8, or 9) and 0 is no
 
 $$E=mc^2$$
 
-$FG\text{-}DE = HI$
+$\frac{FG\text{-}DE}{1} = HI$
+
