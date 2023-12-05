@@ -11,23 +11,6 @@ Each letter stands for a different figure (1,2,3,4,5, 6, 7, 8, or 9) and 0 is no
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Column Subtraction</title>
-    <style>
-        table {
-            border-collapse: collapse;
-        }
-        table, th, td {
-            border: 1px solid black;
-        }
-        th, td {
-            padding: 10px;
-            text-align: center;
-        }
-    </style>
-</head>
 <body>
 
 <table>
